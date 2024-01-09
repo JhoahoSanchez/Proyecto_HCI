@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Inicio</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
+      crossorigin="anonymous"
+    />
+    <style>
+      @font-face {
+        font-family: inter;
+        src: url(/style/Inter-Regular.ttf);
+      }
+      @font-face {
+        font-family: romanesco;
+        src: url(/style/Romanesco-Regular.ttf);
+      }
+      * {
+        font-family: inter;
+      }
+      .titulo2 {
+        font-family: inter;
+        font-weight: 600;
+        font-size: 32px;
+      }
+      .titulo-romanesco {
+        font-family: romanesco;
+        font-weight: normal;
+        height: 96px;
+        font-size: 96px;
+      }
+      .header-bg-color {
+        background: #a3a656;
+      }
+      .header-menu-color:hover {
+        color: #ffff00;
+      }
+    </style>
+    <!--<link rel="stylesheet" href="/style/style.css" />-->
+  </head>
+  <body>
+    <main class="container-fluid p-0">
+      <header class="container-fluid header-bg-color" style="height: 70px">
+        <div class="row justify-content-center align-items-center h-100">
+          <div class="col-sm-6 p-0 h-100">
+            <ul
+              class="col-sm list-group list-group-horizontal-sm list-group-flush header-bg-color h-100 align-items-center position-relative"
+              style="left: 70px"
+            >
+              <li
+                class="list-group-item header-bg-color border-0 header-menu-color"
+                style="padding-left: 0"
+              >
+                PROMOCIONES
+              </li>
+              <li
+                class="list-group-item header-bg-color border-0 header-menu-color"
+              >
+                FOTOS
+              </li>
+              <li
+                class="list-group-item header-bg-color border-0 header-menu-color"
+              >
+                SERVICIOS
+              </li>
+              <li
+                class="list-group-item header-bg-color border-0 header-menu-color"
+              >
+                MAPA
+              </li>
+              <li
+                class="list-group-item header-bg-color border-0 header-menu-color"
+              >
+                CONTACTO
+              </li>
+            </ul>
+          </div>
+          <div class="col-sm-6 d-block container-fluid p-0 h-100">
+            <div class="container-fluid text-end h-100">
+              <img
+                src="/images/user.png"
+                alt="Este es el icono del usuario"
+                class="img-fluid align-middle"
+              />
+              <span class="text-end align-middle">Mi cuenta</span>
+              <span class="text-end align-middle">ES</span>
+              <img
+                src="/images/flag.png"
+                alt="Bandera de un pais"
+                class="img-fluid align-middle"
+              />
+              <img
+                src="/images/arrow.png"
+                alt="Flecha para desplegar el menu de idiomas"
+                class="img-fluid align-middle"
+              />
+            </div>
+          </div>
+        </div>
+      </header>
+      <section class="container-fluid p-0">
+        <div
+          class="row bg-body img-fluid w-100 m-0"
+          style="background-image: url(/images/main.png); height: 575px"
+        >
+          <p
+            class="titulo-romanesco row position-relative"
+            style="left: 188px; top: 140px"
+          >
+            SPA - Jodos
+          </p>
+          <p
+            class="row titulo2 w-auto h-auto position-relative"
+            style="left: 188px"
+          >
+            Regálate un momento de paz y <br />consiente a tu piel en el mejor
+            lugar
+          </p>
+        </div>
+        <div id="div-cod">
+          <span class="centrar">RESERVA TU CITA:</span>
+          <input type="text" class="inp centrar" />
+          <span class="centrar">CÓDIGO PROMOCIONAL:</span>
+          <input
+            type="text"
+            class="inp centrar"
+            id="cod"
+            placeholder="CODIGO"
+          />
+        </div>
+        <div style="text-align: center">
+          <div class="div-masaje">
+            <span class="titulo2 masaje-title">Masaje de Pies</span>
+            <img
+              src="/images/pies.png"
+              alt="Esta es una imagen para masaje de pies"
+            />
+            <p>Esta es una descripción de la opcion en cuestión...</p>
+            <br />
+            <span class="titulo2 price">$65</span>
+            <input type="button" value="RESERVAR" class="reservar-btn" />
+          </div>
+          <div class="div-masaje">
+            <span class="titulo2 masaje-title">Masaje relajante</span>
+            <img
+              src="/images/relajante.png"
+              alt="Esta es una imagen para masaje relajante"
+            />
+            <p>Esta es una descripción de la opcion en cuestión...</p>
+            <br />
+            <span class="titulo2 price">$60</span>
+            <input type="button" value="RESERVAR" class="reservar-btn" />
+          </div>
+          <div class="div-masaje">
+            <span class="titulo2 masaje-title">Masaje con bambú</span>
+            <img
+              src="/images/bambu.png"
+              alt="Esta es una imagen para masaje con bambú"
+            />
+            <p>Esta es una descripción de la opcion en cuestión...</p>
+            <br />
+            <span class="titulo2 price">$58</span>
+            <input type="button" value="RESERVAR" class="reservar-btn" />
+          </div>
+        </div>
+        <div class="div-socio">
+          <p class="titulo2" id="socio-title">
+            Haste socio y prueba nuestros beneficios
+          </p>
+          <div class="div-plan">
+            <div class="outer-circle">
+              <div class="inner-circle">
+                <img
+                  src="/images/gold.png"
+                  alt="Esta es una imagen del plan gold"
+                  class="plan-img"
+                />
+              </div>
+            </div>
+            <span class="titulo2 plan-title">GOLD</span>
+            <input type="button" value="VER CONDICIONES" class="plan-btn" />
+            <ul class="plan-list">
+              <li>Gimnasio</li>
+              <li>Piscina</li>
+              <li>Todos los tratamientos</li>
+            </ul>
+          </div>
+          <div class="div-plan">
+            <div class="outer-circle">
+              <div class="inner-circle">
+                <img
+                  src="/images/premium.png"
+                  alt="Esta es una imagen del plan premium"
+                  class="plan-img"
+                />
+              </div>
+            </div>
+            <span class="titulo2 plan-title">PREMIUM</span>
+            <input type="button" value="VER CONDICIONES" class="plan-btn" />
+            <ul class="plan-list">
+              <li>Gimnasio</li>
+              <li>Todos los tratamientos</li>
+            </ul>
+          </div>
+          <div class="div-plan">
+            <div class="outer-circle">
+              <div class="inner-circle">
+                <img
+                  src="/images/plate.png"
+                  alt="Esta es una imagen del plan plate"
+                  class="plan-img"
+                />
+              </div>
+            </div>
+            <span class="titulo2 plan-title">PLATE</span>
+            <input type="button" value="VER CONDICIONES" class="plan-btn" />
+            <ul class="plan-list">
+              <li>Tratamientos faciales</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <footer>
+        <div class="div-footer">
+          <ul>
+            <li>POLITICAS DE COOKIES</li>
+            <li>AVISO LEGAL</li>
+            <li>PROTECCION DE DATOS</li>
+            <li>MAPA DEL SITIO</li>
+          </ul>
+        </div>
+        <div class="div-redes">
+          <span class="footer-redes">SIGUENOS EN</span>
+          <img
+            src="/images/rs_facebook.png"
+            alt="Este es el icono de facebook"
+            class="footer-redes-img"
+          />
+          <img
+            src="/images/rs_twiter.png"
+            alt="Este es el icono de twiter"
+            class="footer-redes-img"
+          />
+          <img
+            src="/images/rs_youtube.png"
+            alt="Este es el icono de youtube"
+            class="footer-redes-img"
+          />
+        </div>
+      </footer>
+    </main>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

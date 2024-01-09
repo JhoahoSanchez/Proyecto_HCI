@@ -1,0 +1,351 @@
+[Mon May 29 16:50:25.000276 2023] [ssl:warn] [pid 12576:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 29 16:50:25.036251 2023] [ssl:warn] [pid 12576:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 29 16:50:28.304011 2023] [mpm_winnt:notice] [pid 12576:tid 420] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Mon May 29 16:50:28.304011 2023] [mpm_winnt:notice] [pid 12576:tid 420] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Mon May 29 16:50:28.304011 2023] [core:notice] [pid 12576:tid 420] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon May 29 16:50:28.309013 2023] [mpm_winnt:notice] [pid 12576:tid 420] AH00418: Parent: Created child process 9316
+[Mon May 29 16:50:28.601078 2023] [ssl:warn] [pid 9316:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 29 16:50:28.634087 2023] [ssl:warn] [pid 9316:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 29 16:50:28.662091 2023] [mpm_winnt:notice] [pid 9316:tid 428] AH00354: Child: Starting 150 worker threads.
+[Mon May 29 17:01:07.129510 2023] [ssl:warn] [pid 5692:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 29 17:01:07.165519 2023] [ssl:warn] [pid 5692:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 29 17:01:07.190153 2023] [mpm_winnt:notice] [pid 5692:tid 428] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Mon May 29 17:01:07.190153 2023] [mpm_winnt:notice] [pid 5692:tid 428] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Mon May 29 17:01:07.191153 2023] [core:notice] [pid 5692:tid 428] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon May 29 17:01:07.194154 2023] [mpm_winnt:notice] [pid 5692:tid 428] AH00418: Parent: Created child process 11680
+[Mon May 29 17:01:07.417203 2023] [ssl:warn] [pid 11680:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 29 17:01:07.448210 2023] [ssl:warn] [pid 11680:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 29 17:01:07.477217 2023] [mpm_winnt:notice] [pid 11680:tid 440] AH00354: Child: Starting 150 worker threads.
+[Mon May 29 21:03:04.802701 2023] [ssl:warn] [pid 2420:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 29 21:03:04.839099 2023] [core:warn] [pid 2420:tid 440] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon May 29 21:03:04.841100 2023] [ssl:warn] [pid 2420:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 29 21:03:04.866237 2023] [mpm_winnt:notice] [pid 2420:tid 440] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Mon May 29 21:03:04.866237 2023] [mpm_winnt:notice] [pid 2420:tid 440] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Mon May 29 21:03:04.866237 2023] [core:notice] [pid 2420:tid 440] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon May 29 21:03:04.870238 2023] [mpm_winnt:notice] [pid 2420:tid 440] AH00418: Parent: Created child process 14852
+[Mon May 29 21:03:05.085402 2023] [ssl:warn] [pid 14852:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 29 21:03:05.118170 2023] [ssl:warn] [pid 14852:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 29 21:03:05.146324 2023] [mpm_winnt:notice] [pid 14852:tid 432] AH00354: Child: Starting 150 worker threads.
+[Mon May 29 21:46:03.607717 2023] [php:warn] [pid 14852:tid 1836] [client ::1:50625] PHP Warning:  Undefined variable $_CATEGORIAS in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 47, referer: http://localhost/Lab/
+[Mon May 29 21:46:03.608716 2023] [php:warn] [pid 14852:tid 1836] [client ::1:50625] PHP Warning:  foreach() argument must be of type array|object, null given in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 47, referer: http://localhost/Lab/
+[Mon May 29 21:47:14.085622 2023] [php:warn] [pid 14852:tid 1844] [client ::1:50633] PHP Warning:  Undefined variable $_CATEGORIAS in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 47, referer: http://localhost/Lab/
+[Mon May 29 21:47:14.085622 2023] [php:warn] [pid 14852:tid 1844] [client ::1:50633] PHP Warning:  foreach() argument must be of type array|object, null given in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 47, referer: http://localhost/Lab/
+[Mon May 29 21:47:44.420942 2023] [php:warn] [pid 14852:tid 1836] [client ::1:50634] PHP Warning:  Undefined variable $_CATEGORIAS in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 38, referer: http://localhost/Lab/
+[Mon May 29 21:47:44.420942 2023] [php:warn] [pid 14852:tid 1836] [client ::1:50634] PHP Warning:  foreach() argument must be of type array|object, null given in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 38, referer: http://localhost/Lab/
+[Mon May 29 21:50:00.448304 2023] [php:warn] [pid 14852:tid 1836] [client ::1:50655] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 41, referer: http://localhost/Lab/
+[Mon May 29 21:50:01.409766 2023] [php:warn] [pid 14852:tid 1836] [client ::1:50655] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 41, referer: http://localhost/Lab/index.php
+[Mon May 29 21:50:51.545692 2023] [php:warn] [pid 14852:tid 1844] [client ::1:50656] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 47, referer: http://localhost/Lab/index.php
+[Mon May 29 21:50:52.139439 2023] [php:warn] [pid 14852:tid 1844] [client ::1:50656] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 47, referer: http://localhost/Lab/index.php
+[Mon May 29 21:50:52.662227 2023] [php:warn] [pid 14852:tid 1844] [client ::1:50656] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 47, referer: http://localhost/Lab/index.php
+[Mon May 29 21:50:53.125937 2023] [php:warn] [pid 14852:tid 1844] [client ::1:50656] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 47, referer: http://localhost/Lab/index.php
+[Mon May 29 21:56:31.665361 2023] [php:warn] [pid 14852:tid 1844] [client ::1:50722] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 35, referer: http://localhost/Lab/index.php
+[Mon May 29 21:56:32.357732 2023] [php:warn] [pid 14852:tid 1844] [client ::1:50722] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 35, referer: http://localhost/Lab/index.php
+[Mon May 29 21:56:55.538797 2023] [php:warn] [pid 14852:tid 1844] [client ::1:50725] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 5
+[Mon May 29 21:56:55.538797 2023] [php:warn] [pid 14852:tid 1844] [client ::1:50725] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 35
+[Mon May 29 22:37:02.033186 2023] [php:warn] [pid 14852:tid 1836] [client ::1:50880] PHP Warning:  Undefined array key "idioma" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 16, referer: http://localhost/Lab/index.php
+[Mon May 29 22:37:02.034187 2023] [php:warn] [pid 14852:tid 1836] [client ::1:50880] PHP Warning:  Undefined array key "c_idioma" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 23, referer: http://localhost/Lab/index.php
+[Mon May 29 22:37:02.034187 2023] [php:warn] [pid 14852:tid 1836] [client ::1:50880] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 66, referer: http://localhost/Lab/index.php
+[Mon May 29 22:37:02.034187 2023] [php:warn] [pid 14852:tid 1836] [client ::1:50880] PHP Warning:  Undefined variable $_CATEGORIAS in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 74, referer: http://localhost/Lab/index.php
+[Mon May 29 22:37:02.034187 2023] [php:warn] [pid 14852:tid 1836] [client ::1:50880] PHP Warning:  foreach() argument must be of type array|object, null given in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 74, referer: http://localhost/Lab/index.php
+[Mon May 29 22:37:06.142180 2023] [php:warn] [pid 14852:tid 1836] [client ::1:50880] PHP Warning:  Undefined array key "idioma" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 16, referer: http://localhost/Lab/index.php
+[Mon May 29 22:40:30.672936 2023] [php:warn] [pid 14852:tid 1844] [client ::1:50926] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 66, referer: http://localhost/Lab/index.php
+[Mon May 29 22:48:56.272146 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51213] PHP Warning:  Undefined array key "c_idioma" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 18, referer: http://localhost/Lab/
+[Mon May 29 22:48:56.272146 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51213] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 68, referer: http://localhost/Lab/
+[Mon May 29 22:48:56.272146 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51213] PHP Warning:  Undefined variable $_CATEGORIAS in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 76, referer: http://localhost/Lab/
+[Mon May 29 22:48:56.272146 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51213] PHP Warning:  foreach() argument must be of type array|object, null given in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 76, referer: http://localhost/Lab/
+[Mon May 29 22:48:56.877890 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51213] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 68, referer: http://localhost/Lab/index.php
+[Mon May 29 23:00:37.382122 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51585] PHP Warning:  Undefined array key "c_idioma" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 23, referer: http://localhost/Lab/
+[Mon May 29 23:00:37.382122 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51585] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 70, referer: http://localhost/Lab/
+[Mon May 29 23:00:37.382122 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51585] PHP Warning:  Undefined variable $_CATEGORIAS in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 78, referer: http://localhost/Lab/
+[Mon May 29 23:00:37.382122 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51585] PHP Warning:  foreach() argument must be of type array|object, null given in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 78, referer: http://localhost/Lab/
+[Mon May 29 23:00:37.924078 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51585] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 70, referer: http://localhost/Lab/index.php
+[Mon May 29 23:00:38.255019 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51585] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 70, referer: http://localhost/Lab/index.php
+[Mon May 29 23:00:41.250284 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51585] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 70, referer: http://localhost/Lab/index.php
+[Mon May 29 23:00:41.905165 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51585] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 70, referer: http://localhost/Lab/index.php
+[Mon May 29 23:01:00.632105 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51588] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 70, referer: http://localhost/Lab/index.php
+[Mon May 29 23:04:53.257749 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51617] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 71, referer: http://localhost/Lab/index.php
+[Mon May 29 23:04:53.259750 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51617] PHP Warning:  Undefined array key "c_usuario" in C:\\xampp\\htdocs\\Lab\\index.php on line 8, referer: http://localhost/Lab/index.php
+[Mon May 29 23:04:53.259750 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51617] PHP Warning:  Undefined array key "c_clave" in C:\\xampp\\htdocs\\Lab\\index.php on line 9, referer: http://localhost/Lab/index.php
+[Mon May 29 23:06:43.039770 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51639] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 71, referer: http://localhost/Lab/index.php
+[Mon May 29 23:06:59.671136 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51653] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 71, referer: http://localhost/Lab/index.php
+[Mon May 29 23:14:24.710915 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51865] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 15, referer: http://localhost/Lab/panelPrincipal.php
+[Mon May 29 23:14:24.710915 2023] [php:warn] [pid 14852:tid 1828] [client ::1:51865] PHP Warning:  Undefined array key "clave" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 16, referer: http://localhost/Lab/panelPrincipal.php
+[Mon May 29 23:18:47.499533 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52011] PHP Warning:  Undefined array key "c_recordar" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 14, referer: http://localhost/Lab/index.php
+[Mon May 29 23:18:47.499533 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52011] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 75, referer: http://localhost/Lab/index.php
+[Mon May 29 23:18:51.938828 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52011] PHP Warning:  Undefined array key "c_recordar" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 14, referer: http://localhost/Lab/index.php
+[Mon May 29 23:18:51.938828 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52011] PHP Warning:  Undefined array key "c_idioma" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 29, referer: http://localhost/Lab/index.php
+[Mon May 29 23:18:51.939829 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52011] PHP Warning:  Undefined variable $_CATEGORIAS in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 83, referer: http://localhost/Lab/index.php
+[Mon May 29 23:18:51.939829 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52011] PHP Warning:  foreach() argument must be of type array|object, null given in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 83, referer: http://localhost/Lab/index.php
+[Mon May 29 23:21:48.095218 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52101] PHP Warning:  Undefined array key "c_recordar" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 15, referer: http://localhost/Lab/index.php
+[Mon May 29 23:32:14.070356 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52405] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 80, referer: http://localhost/Lab/index.php
+[Mon May 29 23:32:14.746493 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52405] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 80, referer: http://localhost/Lab/index.php
+[Mon May 29 23:32:44.999482 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52421] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 80, referer: http://localhost/Lab/index.php
+[Mon May 29 23:33:04.693524 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52440] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 24, referer: http://localhost/Lab/panelPrincipal.php
+[Mon May 29 23:33:04.693524 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52440] PHP Warning:  Undefined array key "clave" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 25, referer: http://localhost/Lab/panelPrincipal.php
+[Mon May 29 23:33:53.920275 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52462] PHP Warning:  Undefined array key "c_usuario" in C:\\xampp\\htdocs\\Lab\\index.php on line 8, referer: http://localhost/Lab/panelPrincipal.php?idioma=es
+[Mon May 29 23:33:53.921276 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52462] PHP Warning:  Undefined array key "c_clave" in C:\\xampp\\htdocs\\Lab\\index.php on line 9, referer: http://localhost/Lab/panelPrincipal.php?idioma=es
+[Mon May 29 23:34:17.688142 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52474] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 24, referer: http://localhost/Lab/panelPrincipal.php
+[Mon May 29 23:34:17.688142 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52474] PHP Warning:  Undefined array key "clave" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 25, referer: http://localhost/Lab/panelPrincipal.php
+[Mon May 29 23:34:19.120878 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52474] PHP Warning:  Undefined array key "c_usuario" in C:\\xampp\\htdocs\\Lab\\index.php on line 8, referer: http://localhost/Lab/panelPrincipal.php?idioma=en
+[Mon May 29 23:34:19.120878 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52474] PHP Warning:  Undefined array key "c_clave" in C:\\xampp\\htdocs\\Lab\\index.php on line 9, referer: http://localhost/Lab/panelPrincipal.php?idioma=en
+[Mon May 29 23:34:23.558566 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52474] PHP Warning:  Undefined array key "c_usuario" in C:\\xampp\\htdocs\\Lab\\index.php on line 8, referer: http://localhost/Lab/panelPrincipal.php?idioma=en
+[Mon May 29 23:34:23.558566 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52474] PHP Warning:  Undefined array key "c_clave" in C:\\xampp\\htdocs\\Lab\\index.php on line 9, referer: http://localhost/Lab/panelPrincipal.php?idioma=en
+[Mon May 29 23:34:30.351339 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52474] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 24, referer: http://localhost/Lab/panelPrincipal.php
+[Mon May 29 23:34:30.351339 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52474] PHP Warning:  Undefined array key "clave" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 25, referer: http://localhost/Lab/panelPrincipal.php
+[Mon May 29 23:34:31.406133 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52474] PHP Warning:  Undefined array key "c_usuario" in C:\\xampp\\htdocs\\Lab\\index.php on line 8, referer: http://localhost/Lab/panelPrincipal.php?idioma=es
+[Mon May 29 23:34:31.407134 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52474] PHP Warning:  Undefined array key "c_clave" in C:\\xampp\\htdocs\\Lab\\index.php on line 9, referer: http://localhost/Lab/panelPrincipal.php?idioma=es
+[Mon May 29 23:36:00.909393 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52531] PHP Warning:  Undefined array key "c_idioma" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 34, referer: http://localhost/Lab/
+[Mon May 29 23:36:00.909393 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52531] PHP Warning:  Undefined variable $_CATEGORIAS in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 88, referer: http://localhost/Lab/
+[Mon May 29 23:36:00.909393 2023] [php:warn] [pid 14852:tid 1828] [client ::1:52531] PHP Warning:  foreach() argument must be of type array|object, null given in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 88, referer: http://localhost/Lab/
+[Mon May 29 23:37:45.554872 2023] [php:warn] [pid 14852:tid 1844] [client ::1:52591] PHP Warning:  Undefined variable $idioma in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 43, referer: http://localhost/Lab/
+[Mon May 29 23:37:45.554872 2023] [php:warn] [pid 14852:tid 1844] [client ::1:52591] PHP Warning:  Undefined variable $idioma in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 52, referer: http://localhost/Lab/
+[Mon May 29 23:37:45.554872 2023] [php:warn] [pid 14852:tid 1844] [client ::1:52591] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 87, referer: http://localhost/Lab/
+[Mon May 29 23:37:47.673869 2023] [php:warn] [pid 14852:tid 1844] [client ::1:52591] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 87, referer: http://localhost/Lab/index.php
+[Mon May 29 23:38:09.303275 2023] [php:warn] [pid 14852:tid 1844] [client ::1:52616] PHP Warning:  Undefined variable $idioma in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 43, referer: http://localhost/Lab/
+[Mon May 29 23:38:09.303275 2023] [php:warn] [pid 14852:tid 1844] [client ::1:52616] PHP Warning:  Undefined variable $idioma in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 52, referer: http://localhost/Lab/
+[Mon May 29 23:40:08.546662 2023] [php:warn] [pid 14852:tid 1836] [client ::1:52684] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 24, referer: http://localhost/Lab/panelPrincipal.php
+[Mon May 29 23:40:08.546662 2023] [php:warn] [pid 14852:tid 1836] [client ::1:52684] PHP Warning:  Undefined array key "clave" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 25, referer: http://localhost/Lab/panelPrincipal.php
+[Mon May 29 23:47:46.005546 2023] [php:warn] [pid 14852:tid 1844] [client ::1:52922] PHP Warning:  Undefined array key "chkRecordar" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 13, referer: http://localhost/Lab/index.php
+[Mon May 29 23:54:40.787990 2023] [php:warn] [pid 14852:tid 1844] [client ::1:53116] PHP Warning:  Undefined array key "chkRecordar" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 13, referer: http://localhost/Lab/
+[Tue May 30 00:07:56.245421 2023] [php:warn] [pid 14852:tid 1844] [client ::1:53516] PHP Warning:  Undefined array key "chkRecordar" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 13, referer: http://localhost/Lab/
+[Tue May 30 00:10:57.152973 2023] [php:warn] [pid 14852:tid 1828] [client ::1:53615] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 90, referer: http://localhost/Lab/index.php
+[Tue May 30 00:10:58.150134 2023] [php:warn] [pid 14852:tid 1828] [client ::1:53615] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 90, referer: http://localhost/Lab/index.php
+[Tue May 30 00:17:32.649641 2023] [php:warn] [pid 14852:tid 1844] [client ::1:53678] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 5
+[Tue May 30 00:17:32.649641 2023] [php:warn] [pid 14852:tid 1844] [client ::1:53678] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 87
+[Tue May 30 14:01:15.199969 2023] [ssl:warn] [pid 9468:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 30 14:01:15.234027 2023] [core:warn] [pid 9468:tid 400] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 30 14:01:15.236027 2023] [ssl:warn] [pid 9468:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 30 14:01:15.353458 2023] [mpm_winnt:notice] [pid 9468:tid 400] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Tue May 30 14:01:15.354459 2023] [mpm_winnt:notice] [pid 9468:tid 400] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Tue May 30 14:01:15.354459 2023] [core:notice] [pid 9468:tid 400] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue May 30 14:01:15.357460 2023] [mpm_winnt:notice] [pid 9468:tid 400] AH00418: Parent: Created child process 7424
+[Tue May 30 14:01:15.575683 2023] [ssl:warn] [pid 7424:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 30 14:01:15.610158 2023] [ssl:warn] [pid 7424:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 30 14:01:15.637327 2023] [mpm_winnt:notice] [pid 7424:tid 440] AH00354: Child: Starting 150 worker threads.
+[Tue May 30 14:18:43.099072 2023] [php:warn] [pid 7424:tid 1820] [client ::1:61895] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 5
+[Tue May 30 14:18:43.103752 2023] [php:warn] [pid 7424:tid 1820] [client ::1:61895] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 87
+[Tue May 30 14:18:47.847703 2023] [php:warn] [pid 7424:tid 1820] [client ::1:61895] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 87, referer: http://localhost/Lab/index.php
+[Tue May 30 14:18:50.783706 2023] [php:warn] [pid 7424:tid 1820] [client ::1:61895] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 87, referer: http://localhost/Lab/index.php
+[Tue May 30 14:20:15.481364 2023] [php:warn] [pid 7424:tid 1820] [client ::1:61904] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 87, referer: http://localhost/Lab/index.php
+[Tue May 30 14:20:16.108891 2023] [php:warn] [pid 7424:tid 1820] [client ::1:61904] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\Lab\\panelPrincipal.php on line 87, referer: http://localhost/Lab/index.php
+[Tue May 30 14:26:22.195646 2023] [ssl:warn] [pid 4788:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 30 14:26:22.231322 2023] [core:warn] [pid 4788:tid 412] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 30 14:26:22.233322 2023] [ssl:warn] [pid 4788:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 30 14:26:22.258328 2023] [mpm_winnt:notice] [pid 4788:tid 412] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Tue May 30 14:26:22.258328 2023] [mpm_winnt:notice] [pid 4788:tid 412] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Tue May 30 14:26:22.258328 2023] [core:notice] [pid 4788:tid 412] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue May 30 14:26:22.262329 2023] [mpm_winnt:notice] [pid 4788:tid 412] AH00418: Parent: Created child process 15168
+[Tue May 30 14:26:22.478377 2023] [ssl:warn] [pid 15168:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 30 14:26:22.513385 2023] [ssl:warn] [pid 15168:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 30 14:26:22.540391 2023] [mpm_winnt:notice] [pid 15168:tid 432] AH00354: Child: Starting 150 worker threads.
+[Tue May 30 14:26:42.295148 2023] [php:warn] [pid 15168:tid 1844] [client ::1:61999] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\jhoaho_sanchez\\panelPrincipal.php on line 86, referer: http://localhost/jhoaho_sanchez/
+[Tue May 30 14:26:42.764762 2023] [php:warn] [pid 15168:tid 1844] [client ::1:61999] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\jhoaho_sanchez\\panelPrincipal.php on line 86, referer: http://localhost/jhoaho_sanchez/index.php
+[Tue May 30 14:26:57.845416 2023] [php:warn] [pid 15168:tid 1828] [client ::1:62001] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\jhoaho_sanchez\\panelPrincipal.php on line 5
+[Tue May 30 14:26:57.845416 2023] [php:warn] [pid 15168:tid 1828] [client ::1:62001] PHP Warning:  Undefined array key "usuario" in C:\\xampp\\htdocs\\jhoaho_sanchez\\panelPrincipal.php on line 86
+[Mon Jul 24 11:49:15.632724 2023] [ssl:warn] [pid 1856:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 24 11:49:15.670732 2023] [core:warn] [pid 1856:tid 432] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jul 24 11:49:15.672733 2023] [ssl:warn] [pid 1856:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 24 11:49:15.807763 2023] [mpm_winnt:notice] [pid 1856:tid 432] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Mon Jul 24 11:49:15.807763 2023] [mpm_winnt:notice] [pid 1856:tid 432] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Mon Jul 24 11:49:15.807763 2023] [core:notice] [pid 1856:tid 432] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jul 24 11:49:15.811765 2023] [mpm_winnt:notice] [pid 1856:tid 432] AH00418: Parent: Created child process 9784
+[Mon Jul 24 11:49:16.037345 2023] [ssl:warn] [pid 9784:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 24 11:49:16.069352 2023] [ssl:warn] [pid 9784:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 24 11:49:16.097358 2023] [mpm_winnt:notice] [pid 9784:tid 432] AH00354: Child: Starting 150 worker threads.
+[Wed Jul 26 11:10:18.916672 2023] [ssl:warn] [pid 14568:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 26 11:10:18.955681 2023] [core:warn] [pid 14568:tid 444] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jul 26 11:10:18.957681 2023] [ssl:warn] [pid 14568:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 26 11:10:19.077534 2023] [mpm_winnt:notice] [pid 14568:tid 444] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Wed Jul 26 11:10:19.077534 2023] [mpm_winnt:notice] [pid 14568:tid 444] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Wed Jul 26 11:10:19.077534 2023] [core:notice] [pid 14568:tid 444] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Jul 26 11:10:19.081535 2023] [mpm_winnt:notice] [pid 14568:tid 444] AH00418: Parent: Created child process 4076
+[Wed Jul 26 11:10:19.314590 2023] [ssl:warn] [pid 4076:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 26 11:10:19.347597 2023] [ssl:warn] [pid 4076:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jul 26 11:10:19.375604 2023] [mpm_winnt:notice] [pid 4076:tid 424] AH00354: Child: Starting 150 worker threads.
+[Wed Aug 09 11:20:15.231165 2023] [ssl:warn] [pid 11108:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 09 11:20:15.270174 2023] [core:warn] [pid 11108:tid 416] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Aug 09 11:20:15.272174 2023] [ssl:warn] [pid 11108:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 09 11:20:15.408205 2023] [mpm_winnt:notice] [pid 11108:tid 416] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Wed Aug 09 11:20:15.408205 2023] [mpm_winnt:notice] [pid 11108:tid 416] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Wed Aug 09 11:20:15.408205 2023] [core:notice] [pid 11108:tid 416] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Aug 09 11:20:15.411206 2023] [mpm_winnt:notice] [pid 11108:tid 416] AH00418: Parent: Created child process 10560
+[Wed Aug 09 11:20:15.637257 2023] [ssl:warn] [pid 10560:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 09 11:20:15.668264 2023] [ssl:warn] [pid 10560:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 09 11:20:15.696270 2023] [mpm_winnt:notice] [pid 10560:tid 432] AH00354: Child: Starting 150 worker threads.
+[Wed Aug 09 11:21:30.178500 2023] [ssl:warn] [pid 6616:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 09 11:21:30.213508 2023] [core:warn] [pid 6616:tid 428] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Aug 09 11:21:30.215508 2023] [ssl:warn] [pid 6616:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 09 11:21:30.241514 2023] [mpm_winnt:notice] [pid 6616:tid 428] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Wed Aug 09 11:21:30.241514 2023] [mpm_winnt:notice] [pid 6616:tid 428] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Wed Aug 09 11:21:30.241514 2023] [core:notice] [pid 6616:tid 428] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Aug 09 11:21:30.245515 2023] [mpm_winnt:notice] [pid 6616:tid 428] AH00418: Parent: Created child process 1644
+[Wed Aug 09 11:21:30.463564 2023] [ssl:warn] [pid 1644:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 09 11:21:30.498572 2023] [ssl:warn] [pid 1644:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 09 11:21:30.526578 2023] [mpm_winnt:notice] [pid 1644:tid 432] AH00354: Child: Starting 150 worker threads.
+[Tue Aug 22 11:44:16.425034 2023] [ssl:warn] [pid 7844:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 22 11:44:16.463883 2023] [core:warn] [pid 7844:tid 424] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Aug 22 11:44:16.465884 2023] [ssl:warn] [pid 7844:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 22 11:44:16.594573 2023] [mpm_winnt:notice] [pid 7844:tid 424] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Tue Aug 22 11:44:16.594573 2023] [mpm_winnt:notice] [pid 7844:tid 424] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Tue Aug 22 11:44:16.594573 2023] [core:notice] [pid 7844:tid 424] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Aug 22 11:44:16.598574 2023] [mpm_winnt:notice] [pid 7844:tid 424] AH00418: Parent: Created child process 3456
+[Tue Aug 22 11:44:16.828184 2023] [ssl:warn] [pid 3456:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 22 11:44:16.858191 2023] [ssl:warn] [pid 3456:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 22 11:44:16.886197 2023] [mpm_winnt:notice] [pid 3456:tid 428] AH00354: Child: Starting 150 worker threads.
+[Tue Aug 22 14:39:06.461364 2023] [ssl:warn] [pid 15036:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 22 14:39:06.496619 2023] [core:warn] [pid 15036:tid 416] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Aug 22 14:39:06.498619 2023] [ssl:warn] [pid 15036:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 22 14:39:06.523624 2023] [mpm_winnt:notice] [pid 15036:tid 416] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Tue Aug 22 14:39:06.523624 2023] [mpm_winnt:notice] [pid 15036:tid 416] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Tue Aug 22 14:39:06.523624 2023] [core:notice] [pid 15036:tid 416] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Aug 22 14:39:06.527625 2023] [mpm_winnt:notice] [pid 15036:tid 416] AH00418: Parent: Created child process 14432
+[Tue Aug 22 14:39:06.752106 2023] [ssl:warn] [pid 14432:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 22 14:39:06.785113 2023] [ssl:warn] [pid 14432:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 22 14:39:06.814119 2023] [mpm_winnt:notice] [pid 14432:tid 432] AH00354: Child: Starting 150 worker threads.
+[Wed Aug 23 18:43:39.645416 2023] [ssl:warn] [pid 16604:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 23 18:43:39.680532 2023] [core:warn] [pid 16604:tid 424] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Aug 23 18:43:39.682532 2023] [ssl:warn] [pid 16604:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 23 18:43:39.781630 2023] [mpm_winnt:notice] [pid 16604:tid 424] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Wed Aug 23 18:43:39.781630 2023] [mpm_winnt:notice] [pid 16604:tid 424] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Wed Aug 23 18:43:39.781630 2023] [core:notice] [pid 16604:tid 424] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Aug 23 18:43:39.785632 2023] [mpm_winnt:notice] [pid 16604:tid 424] AH00418: Parent: Created child process 1616
+[Wed Aug 23 18:43:40.002680 2023] [ssl:warn] [pid 1616:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 23 18:43:40.034687 2023] [ssl:warn] [pid 1616:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 23 18:43:40.062792 2023] [mpm_winnt:notice] [pid 1616:tid 428] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 26 19:26:51.482220 2023] [ssl:warn] [pid 9268:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 26 19:26:51.520419 2023] [core:warn] [pid 9268:tid 428] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Aug 26 19:26:51.522420 2023] [ssl:warn] [pid 9268:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 26 19:26:51.640232 2023] [mpm_winnt:notice] [pid 9268:tid 428] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Sat Aug 26 19:26:51.640232 2023] [mpm_winnt:notice] [pid 9268:tid 428] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Sat Aug 26 19:26:51.640232 2023] [core:notice] [pid 9268:tid 428] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Aug 26 19:26:51.644235 2023] [mpm_winnt:notice] [pid 9268:tid 428] AH00418: Parent: Created child process 15460
+[Sat Aug 26 19:26:51.868285 2023] [ssl:warn] [pid 15460:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 26 19:26:51.901295 2023] [ssl:warn] [pid 15460:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 26 19:26:51.930703 2023] [mpm_winnt:notice] [pid 15460:tid 404] AH00354: Child: Starting 150 worker threads.
+[Sun Aug 27 12:58:49.201334 2023] [ssl:warn] [pid 9780:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 27 12:58:49.233342 2023] [core:warn] [pid 9780:tid 436] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 27 12:58:49.235342 2023] [ssl:warn] [pid 9780:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 27 12:58:49.268349 2023] [mpm_winnt:notice] [pid 9780:tid 436] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Sun Aug 27 12:58:49.268349 2023] [mpm_winnt:notice] [pid 9780:tid 436] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Sun Aug 27 12:58:49.268349 2023] [core:notice] [pid 9780:tid 436] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Aug 27 12:58:49.272352 2023] [mpm_winnt:notice] [pid 9780:tid 436] AH00418: Parent: Created child process 7056
+[Sun Aug 27 12:58:49.521407 2023] [ssl:warn] [pid 7056:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 27 12:58:49.554414 2023] [ssl:warn] [pid 7056:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 27 12:58:49.580420 2023] [mpm_winnt:notice] [pid 7056:tid 420] AH00354: Child: Starting 150 worker threads.
+[Sun Aug 27 15:33:33.578952 2023] [ssl:warn] [pid 3604:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 27 15:33:33.616008 2023] [core:warn] [pid 3604:tid 420] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 27 15:33:33.618008 2023] [ssl:warn] [pid 3604:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 27 15:33:33.761438 2023] [mpm_winnt:notice] [pid 3604:tid 420] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Sun Aug 27 15:33:33.761438 2023] [mpm_winnt:notice] [pid 3604:tid 420] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Sun Aug 27 15:33:33.761438 2023] [core:notice] [pid 3604:tid 420] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Aug 27 15:33:33.765441 2023] [mpm_winnt:notice] [pid 3604:tid 420] AH00418: Parent: Created child process 8052
+[Sun Aug 27 15:33:33.989492 2023] [ssl:warn] [pid 8052:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 27 15:33:34.023902 2023] [ssl:warn] [pid 8052:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 27 15:33:34.050907 2023] [mpm_winnt:notice] [pid 8052:tid 444] AH00354: Child: Starting 150 worker threads.
+[Sun Aug 27 15:38:20.934429 2023] [ssl:warn] [pid 3592:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 27 15:38:20.969257 2023] [core:warn] [pid 3592:tid 436] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 27 15:38:20.971257 2023] [ssl:warn] [pid 3592:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 27 15:38:20.996262 2023] [mpm_winnt:notice] [pid 3592:tid 436] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Sun Aug 27 15:38:20.996262 2023] [mpm_winnt:notice] [pid 3592:tid 436] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Sun Aug 27 15:38:20.996262 2023] [core:notice] [pid 3592:tid 436] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Aug 27 15:38:21.000263 2023] [mpm_winnt:notice] [pid 3592:tid 436] AH00418: Parent: Created child process 5652
+[Sun Aug 27 15:38:21.216466 2023] [ssl:warn] [pid 5652:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 27 15:38:21.251474 2023] [ssl:warn] [pid 5652:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 27 15:38:21.278479 2023] [mpm_winnt:notice] [pid 5652:tid 432] AH00354: Child: Starting 150 worker threads.
+[Mon Dec 25 15:01:14.109685 2023] [ssl:warn] [pid 10004:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 25 15:01:14.144692 2023] [core:warn] [pid 10004:tid 424] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 25 15:01:14.146692 2023] [ssl:warn] [pid 10004:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 25 15:01:14.431764 2023] [mpm_winnt:notice] [pid 10004:tid 424] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Mon Dec 25 15:01:14.431764 2023] [mpm_winnt:notice] [pid 10004:tid 424] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Mon Dec 25 15:01:14.431764 2023] [core:notice] [pid 10004:tid 424] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Dec 25 15:01:14.436765 2023] [mpm_winnt:notice] [pid 10004:tid 424] AH00418: Parent: Created child process 10236
+[Mon Dec 25 15:01:14.666361 2023] [ssl:warn] [pid 10236:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 25 15:01:14.696382 2023] [ssl:warn] [pid 10236:tid 460] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Dec 25 15:01:14.726389 2023] [mpm_winnt:notice] [pid 10236:tid 460] AH00354: Child: Starting 150 worker threads.
+[Wed Dec 27 16:51:38.914783 2023] [ssl:warn] [pid 5132:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 27 16:51:38.944908 2023] [core:warn] [pid 5132:tid 416] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 27 16:51:38.946976 2023] [ssl:warn] [pid 5132:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 27 16:51:39.161167 2023] [mpm_winnt:notice] [pid 5132:tid 416] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Wed Dec 27 16:51:39.162167 2023] [mpm_winnt:notice] [pid 5132:tid 416] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Wed Dec 27 16:51:39.162167 2023] [core:notice] [pid 5132:tid 416] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Dec 27 16:51:39.167247 2023] [mpm_winnt:notice] [pid 5132:tid 416] AH00418: Parent: Created child process 7392
+[Wed Dec 27 16:51:39.396188 2023] [ssl:warn] [pid 7392:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 27 16:51:39.425300 2023] [ssl:warn] [pid 7392:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 27 16:51:39.452469 2023] [mpm_winnt:notice] [pid 7392:tid 436] AH00354: Child: Starting 150 worker threads.
+[Wed Dec 27 17:09:42.125103 2023] [php:warn] [pid 7392:tid 1844] [client ::1:65133] PHP Warning:  Undefined array key "data" in C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\elementor\\core\\common\\modules\\ajax\\module.php on line 171, referer: http://localhost/wordpress/wp-admin/admin.php?page=elementor-app&ver=3.4.3
+[Wed Dec 27 17:10:27.662772 2023] [php:warn] [pid 7392:tid 1812] [client ::1:65184] PHP Warning:  Undefined array key "data" in C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\elementor\\core\\common\\modules\\ajax\\module.php on line 171, referer: http://localhost/wordpress/wp-admin/admin.php?page=elementor-app&ver=3.4.3
+[Wed Dec 27 17:10:44.090174 2023] [php:warn] [pid 7392:tid 1812] [client ::1:65203] PHP Warning:  Undefined array key "data" in C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\elementor\\core\\common\\modules\\ajax\\module.php on line 171, referer: http://localhost/wordpress/wp-admin/admin.php?page=elementor-app&ver=3.4.3
+[Wed Dec 27 17:11:41.303329 2023] [php:warn] [pid 7392:tid 1812] [client ::1:65280] PHP Warning:  Undefined array key "data" in C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\elementor\\core\\common\\modules\\ajax\\module.php on line 171, referer: http://localhost/wordpress/wp-admin/admin.php?page=elementor-app&ver=3.4.3
+[Thu Dec 28 10:28:23.157982 2023] [ssl:warn] [pid 8700:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 28 10:28:23.189235 2023] [core:warn] [pid 8700:tid 432] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 28 10:28:23.189235 2023] [ssl:warn] [pid 8700:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 28 10:28:23.454877 2023] [mpm_winnt:notice] [pid 8700:tid 432] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Thu Dec 28 10:28:23.454877 2023] [mpm_winnt:notice] [pid 8700:tid 432] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Thu Dec 28 10:28:23.454877 2023] [core:notice] [pid 8700:tid 432] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 28 10:28:23.454877 2023] [mpm_winnt:notice] [pid 8700:tid 432] AH00418: Parent: Created child process 14892
+[Thu Dec 28 10:28:23.673642 2023] [ssl:warn] [pid 14892:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 28 10:28:23.704895 2023] [ssl:warn] [pid 14892:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 28 10:28:23.736147 2023] [mpm_winnt:notice] [pid 14892:tid 440] AH00354: Child: Starting 150 worker threads.
+[Thu Dec 28 18:13:57.097270 2023] [ssl:warn] [pid 14848:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 28 18:13:57.130501 2023] [core:warn] [pid 14848:tid 420] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 28 18:13:57.132501 2023] [ssl:warn] [pid 14848:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 28 18:13:57.173909 2023] [mpm_winnt:notice] [pid 14848:tid 420] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Thu Dec 28 18:13:57.173909 2023] [mpm_winnt:notice] [pid 14848:tid 420] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Thu Dec 28 18:13:57.173909 2023] [core:notice] [pid 14848:tid 420] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 28 18:13:57.178910 2023] [mpm_winnt:notice] [pid 14848:tid 420] AH00418: Parent: Created child process 12380
+[Thu Dec 28 18:13:57.403278 2023] [ssl:warn] [pid 12380:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 28 18:13:57.437195 2023] [ssl:warn] [pid 12380:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 28 18:13:57.465202 2023] [mpm_winnt:notice] [pid 12380:tid 436] AH00354: Child: Starting 150 worker threads.
+[Thu Jan 04 17:15:50.350598 2024] [ssl:warn] [pid 10496:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 04 17:15:50.382492 2024] [core:warn] [pid 10496:tid 416] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 04 17:15:50.384492 2024] [ssl:warn] [pid 10496:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 04 17:15:50.638376 2024] [mpm_winnt:notice] [pid 10496:tid 416] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Thu Jan 04 17:15:50.638376 2024] [mpm_winnt:notice] [pid 10496:tid 416] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Thu Jan 04 17:15:50.638376 2024] [core:notice] [pid 10496:tid 416] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jan 04 17:15:50.644229 2024] [mpm_winnt:notice] [pid 10496:tid 416] AH00418: Parent: Created child process 5472
+[Thu Jan 04 17:15:50.868118 2024] [ssl:warn] [pid 5472:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 04 17:15:50.897124 2024] [ssl:warn] [pid 5472:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 04 17:15:50.924131 2024] [mpm_winnt:notice] [pid 5472:tid 424] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 08 18:07:15.352659 2024] [ssl:warn] [pid 3804:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 18:07:15.383264 2024] [core:warn] [pid 3804:tid 420] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 08 18:07:15.385264 2024] [ssl:warn] [pid 3804:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 18:07:15.639514 2024] [mpm_winnt:notice] [pid 3804:tid 420] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Mon Jan 08 18:07:15.639514 2024] [mpm_winnt:notice] [pid 3804:tid 420] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Mon Jan 08 18:07:15.639514 2024] [core:notice] [pid 3804:tid 420] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 08 18:07:15.645435 2024] [mpm_winnt:notice] [pid 3804:tid 420] AH00418: Parent: Created child process 11008
+[Mon Jan 08 18:07:15.982854 2024] [ssl:warn] [pid 11008:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 18:07:16.011004 2024] [ssl:warn] [pid 11008:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 18:07:16.038104 2024] [mpm_winnt:notice] [pid 11008:tid 436] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 08 18:09:01.072348 2024] [ssl:warn] [pid 8404:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 18:09:01.103127 2024] [core:warn] [pid 8404:tid 432] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 08 18:09:01.105127 2024] [ssl:warn] [pid 8404:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 18:09:01.131233 2024] [mpm_winnt:notice] [pid 8404:tid 432] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Mon Jan 08 18:09:01.131233 2024] [mpm_winnt:notice] [pid 8404:tid 432] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Mon Jan 08 18:09:01.131233 2024] [core:notice] [pid 8404:tid 432] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 08 18:09:01.136235 2024] [mpm_winnt:notice] [pid 8404:tid 432] AH00418: Parent: Created child process 12736
+[Mon Jan 08 18:09:01.467560 2024] [ssl:warn] [pid 12736:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 18:09:01.496647 2024] [ssl:warn] [pid 12736:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 18:09:01.524708 2024] [mpm_winnt:notice] [pid 12736:tid 424] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 08 18:10:40.406887 2024] [ssl:warn] [pid 13380:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 18:10:40.435892 2024] [core:warn] [pid 13380:tid 416] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 08 18:10:40.437893 2024] [ssl:warn] [pid 13380:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 18:10:40.463899 2024] [mpm_winnt:notice] [pid 13380:tid 416] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Mon Jan 08 18:10:40.463899 2024] [mpm_winnt:notice] [pid 13380:tid 416] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Mon Jan 08 18:10:40.463899 2024] [core:notice] [pid 13380:tid 416] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 08 18:10:40.468900 2024] [mpm_winnt:notice] [pid 13380:tid 416] AH00418: Parent: Created child process 3120
+[Mon Jan 08 18:10:40.689724 2024] [ssl:warn] [pid 3120:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 18:10:40.719731 2024] [ssl:warn] [pid 3120:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 18:10:40.747737 2024] [mpm_winnt:notice] [pid 3120:tid 436] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 08 20:53:02.435184 2024] [ssl:warn] [pid 11668:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 20:53:02.466047 2024] [core:warn] [pid 11668:tid 424] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 08 20:53:02.468047 2024] [ssl:warn] [pid 11668:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 20:53:02.494053 2024] [mpm_winnt:notice] [pid 11668:tid 424] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Mon Jan 08 20:53:02.494053 2024] [mpm_winnt:notice] [pid 11668:tid 424] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Mon Jan 08 20:53:02.494053 2024] [core:notice] [pid 11668:tid 424] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 08 20:53:02.499054 2024] [mpm_winnt:notice] [pid 11668:tid 424] AH00418: Parent: Created child process 15236
+[Mon Jan 08 20:53:02.731107 2024] [ssl:warn] [pid 15236:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 20:53:02.761113 2024] [ssl:warn] [pid 15236:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 08 20:53:02.790119 2024] [mpm_winnt:notice] [pid 15236:tid 440] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 08 21:37:54.054099 2024] [php:warn] [pid 15236:tid 1816] [client ::1:55088] PHP Warning:  Undefined array key "data" in C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\elementor\\core\\common\\modules\\ajax\\module.php on line 171, referer: http://localhost/wordpress/wp-admin/post.php?post=184&action=elementor
+[Mon Jan 08 21:51:59.158059 2024] [php:notice] [pid 15236:tid 1836] [client 127.0.0.1:55928] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: El evento programado no existe., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[Mon Jan 08 21:51:59.789791 2024] [access_compat:error] [pid 15236:tid 1836] [client 127.0.0.1:55931] AH01797: client denied by server configuration: C:/xampp/htdocs/wordpress/wp-content/uploads/woocommerce_uploads/
